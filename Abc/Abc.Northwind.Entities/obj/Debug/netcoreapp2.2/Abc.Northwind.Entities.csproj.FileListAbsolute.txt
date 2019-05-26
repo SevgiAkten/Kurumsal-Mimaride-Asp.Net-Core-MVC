@@ -1,0 +1,12 @@
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.deps.json
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.pdb
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.AssemblyInfo.cs
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.csproj.CopyComplete
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.Entities\obj\Debug\netcoreapp2.2\Abc.Northwind.Entities.pdb

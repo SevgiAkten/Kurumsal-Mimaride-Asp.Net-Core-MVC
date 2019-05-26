@@ -1,0 +1,14 @@
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Core.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.deps.json
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.pdb
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Core.pdb
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\bin\Debug\netcoreapp2.2\Abc.Northwind.Entities.pdb
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.dll
+C:\Users\Sevgi AKTEN\source\repos\Abc\Abc.Northwind.DataAccess\obj\Debug\netcoreapp2.2\Abc.Northwind.DataAccess.pdb
